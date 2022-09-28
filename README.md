@@ -24,7 +24,7 @@ And click to 𝐬𝐚𝐯𝐞.
 
 𝐀𝐥𝐬𝐨
 
-If you don't want to GUI, you can use 𝐋𝐨𝐠𝐒𝐜𝐚𝐧𝐧𝐞𝐫𝐂𝐨𝐧𝐬𝐨𝐥𝐞.𝐩𝐲
+If you don't want to use GUI, you can use 𝐋𝐨𝐠𝐒𝐜𝐚𝐧𝐧𝐞𝐫𝐂𝐨𝐧𝐬𝐨𝐥𝐞.𝐩𝐲
 
 Run 𝐋𝐨𝐠𝐒𝐜𝐚𝐧𝐧𝐞𝐫𝐂𝐨𝐧𝐬𝐨𝐥𝐞.𝐩𝐲
 
