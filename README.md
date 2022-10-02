@@ -74,3 +74,6 @@ Bitiş metnini yazınız.
 Kaydedilecek dosya yolunu yazınız (𝐁ö𝐲𝐥𝐞 𝐠ö𝐫ü𝐧𝐦𝐞𝐥𝐢𝐝𝐢𝐫: 𝐂:\𝐔𝐬𝐞𝐫𝐬\𝐮𝐬𝐞𝐫\𝐃𝐞𝐬𝐤𝐭𝐨𝐩\𝐥𝐨𝐠𝐟𝐢𝐥𝐞.𝐥𝐨𝐠).
 
 Ve Enter'a basınız.
+
+
+![nft](https://user-images.githubusercontent.com/102208615/193478310-7b112742-6c26-4040-b5ae-822e0b321ae4.jpg)
