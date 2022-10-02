@@ -76,4 +76,14 @@ Kaydedilecek dosya yolunu yazınız (𝐁ö𝐲𝐥𝐞 𝐠ö𝐫ü𝐧𝐦𝐞
 Ve Enter'a basınız.
 
 
-![nft](https://user-images.githubusercontent.com/102208615/193478310-7b112742-6c26-4040-b5ae-822e0b321ae4.jpg)
+-----------
+-----------
+
+
+𝐏𝐡𝐨𝐭𝐨𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐠𝐮𝐢:
+
+![image](https://user-images.githubusercontent.com/102208615/193478381-02c8710b-1635-4976-b303-bc39e2b34984.png)
+
+![image](https://user-images.githubusercontent.com/102208615/193478405-66c6419c-1545-4c48-8b35-9267e74e1e26.png)
+
+
