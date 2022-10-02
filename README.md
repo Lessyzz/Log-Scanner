@@ -83,6 +83,7 @@ Ve Enter'a basınız.
 𝐏𝐡𝐨𝐭𝐨𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐠𝐮𝐢:
 
 ![image](https://user-images.githubusercontent.com/102208615/193478381-02c8710b-1635-4976-b303-bc39e2b34984.png) ![image](https://user-images.githubusercontent.com/102208615/193478461-8f8a2025-67f5-4152-939f-7b058911d01e.png) 
+
 ![image](https://user-images.githubusercontent.com/102208615/193478490-8da48e86-5bbf-45a3-87ef-3eff391e370d.png) ![image](https://user-images.githubusercontent.com/102208615/193478630-4fe23e2d-f34b-4d44-8c12-2a74d5ff2d62.png)
 
 
