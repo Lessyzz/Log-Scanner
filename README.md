@@ -12,7 +12,7 @@ Run 𝐋𝐨𝐠𝐒𝐜𝐚𝐧𝐧𝐞𝐫.𝐩𝐲
 
 Choose File (𝐋𝐨𝐠 𝐟𝐢𝐥𝐞).
 
-Type start text.
+Type first text.
 
 Type last text.
 
@@ -30,7 +30,7 @@ Run 𝐋𝐨𝐠𝐒𝐜𝐚𝐧𝐧𝐞𝐫𝐂𝐨𝐧𝐬𝐨𝐥𝐞.𝐩�
 
 Type file PATH (𝐒𝐡𝐨𝐮𝐥𝐝 𝐛𝐞 𝐥𝐢𝐤𝐞 𝐭𝐡𝐚𝐭: 𝐂:\𝐔𝐬𝐞𝐫𝐬\𝐮𝐬𝐞𝐫\𝐃𝐞𝐬𝐤𝐭𝐨𝐩\𝐥𝐨𝐠𝐟𝐢𝐥𝐞.𝐥𝐨𝐠).
 
-Type start text.
+Type first text.
 
 Type last text.
 
