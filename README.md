@@ -82,9 +82,11 @@ Ve Enter'a basınız.
 
 𝐏𝐡𝐨𝐭𝐨𝐬 𝐨𝐟 𝐭𝐡𝐞 𝐠𝐮𝐢:
 
-![image](https://user-images.githubusercontent.com/102208615/193478381-02c8710b-1635-4976-b303-bc39e2b34984.png) ![image](https://user-images.githubusercontent.com/102208615/193478461-8f8a2025-67f5-4152-939f-7b058911d01e.png) 
+![image](https://user-images.githubusercontent.com/102208615/225456190-59c95e80-833b-4ccb-8484-0e9aa1194965.png) ![image](https://user-images.githubusercontent.com/102208615/225456236-ebaa6511-b55b-4608-8fca-1dc5ad9d1b7b.png)
 
-![image](https://user-images.githubusercontent.com/102208615/193478490-8da48e86-5bbf-45a3-87ef-3eff391e370d.png) ![image](https://user-images.githubusercontent.com/102208615/193478630-4fe23e2d-f34b-4d44-8c12-2a74d5ff2d62.png)
+![image](https://user-images.githubusercontent.com/102208615/225456298-40960d3a-9e02-42fd-a730-7d5b4008dcc3.png) ![image](https://user-images.githubusercontent.com/102208615/225456407-96abea60-c413-4e74-a81f-2f298748a4b4.png)
+
+
 
 
 
