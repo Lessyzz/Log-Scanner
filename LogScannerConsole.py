@@ -1,26 +1,40 @@
 from tkinter import *
 import os
 
-os.system("cls")
-print("""
-    Type full PATH: 
-    Example: 'C:/file.txt'
-    """)
+class LogScannerConsole():
+    def __init__(self):
+        os.system("cls")
+        print(
+"""Type full PATH: 
+Example: 'C:/file.txt'
+""")
+        self.getFilePath()
 
-filePath = input() # Get file path
-# File process
-file_open = open(filePath)
-file_read = file_open.read()
-# Get inputs
-first = input("Type first letter: ")
-last = input("Type last letter: ")
-# Get indexs
-firstindex = file_read.index(first)
-lastindex = file_read.index(last)
-# Save file
-saveFile = input("Type the path to the file to save: ")
-saveFileOpen = open(saveFile, "w")
+    def getFilePath(self):
+        self.filePath   = input() # Get file path
+        # File process
+        self.file_open  = open(self.filePath)
+        self.file_read  = self.file_open.read()
+        self.getWords()
 
-for i in range(firstindex,lastindex):
-    saveFileOpen.write(file_read[i])
-print("Saved!")
+    def getWords(self):
+        # Get words
+        self.firstWord  = input("Type first word: ")
+        self.lastWord   = input("Type last word: ")
+        # Get indexs of words
+        self.firstindex = self.file_read.index(self.firstWord)
+        self.lastindex  = self.file_read.index(self.lastWord)
+        self.saveFile()
+
+    def saveFile(self):
+        # Get save file path
+        self.saveFilePath    = input("Type the path to the file to save: ")
+        self.saveFileOpen    = open(self.saveFilePath, "w")
+        self.write()
+
+    def write(self):
+        for i in range(self.firstindex, self.lastindex):
+            self.saveFileOpen.write(self.file_read[i])
+        print("Saved!")
+
+Run = LogScannerConsole()
